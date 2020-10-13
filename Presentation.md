@@ -22,3 +22,13 @@ git help : affiche les 21 commandes qui sont à dispositions ( on peut aussi uti
 git status : indique sur quelle branche on est et permet de savoir si les modifications ont été sauvegardés
 
 git add : (utilisé avant le git commit) permet de faire un point sur ce qui a été ajouté de nouveau
+
+git commit : c'est la sauvegarde en local de nos modifications
+
+git branch : utilisé pour créer une branche, pour travailler une partie du projet
+
+git push : permet d'envoyer nos dernières modifications en ligne
+
+git pull : récupère du travaile en ligne vers le local
+
+git clone : dupliquer un répertoire ou projet depuis GitHub
