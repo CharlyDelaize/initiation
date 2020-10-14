@@ -5,4 +5,4 @@ Le readme sert de documentation à un projet GitHub, c'est une sorte de notice p
 Le readme : 
 - est écrit en markdown
 - est plus que recommandé
-- n'est pas seulement sur GitHub 
+- n'est pas seulement présent sur GitHub 
